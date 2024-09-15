@@ -27,7 +27,7 @@ merged_data[['C_we', 'C_wk']].hist()
 plt.title('Computer Usage: Weekends vs Weekdays')
 plt.show()
 
-#Nurul Hasan's part starts
+#Nurul Hasan's part ends
 
 #Praggawn's part starts
 print(merged_data['gender'].value_counts())
